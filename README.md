@@ -23,7 +23,7 @@ The programming approach is **highly** preferred to using spreadsheets (like `Ex
 
 Python is not the only programming language for numerics, but it has a few important advantages:
 - Python is in high demand. This means learning Python is a good way to improve your job prospects; particularly for engineering positions related to data-science and machine learning.
-- Python has the largest and best organized community of users and developers. The figure above was generated on [stackoverflow](https://insights.stackoverflow.com/trends) and show that Python's user base five times larger than any other programming language used for numerical work. This means the methods in Python are world class and modern, and it is very easy to get help.
+- Python has the largest community of users and developers. [The figure above](https://insights.stackoverflow.com/trends) indicates that Python is around five times larger than any other programming language used for numerical work. This means the methods in Python are world class and modern, and it is very easy to get help.
 - It is open-source and free to use. This helps the community grow and also ensures future employers can use your skills - no need to pay for a Matlab license. 
 - Python is easy to learn and the lessons are generally transferable to other languages. A basis in Python will help make other modern languages like [Julia](https://julialang.org/) and [R](https://www.r-project.org/about.html) more approachable. 
 
