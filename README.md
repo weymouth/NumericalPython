@@ -1,13 +1,11 @@
 # Introduction to Numerical Python for Engineers
 
-**Hello**! Numerical programming is becoming a key skill for modern engineers and you will need to use Python in some of your modules for labs and coursework. This is a quick introduction to numerical programming in [Python](https://www.python.org/) to help you get started. 
-
-## How to complete this introduction
-
-This introduction covers the basics of numerical python using a set of interactive  [Jupyter](https://jupyter.org/) notebooks. 
+**Hello**! Numerical programming is becoming a key skill for modern engineers and you will need to use Python in some of your modules for labs and coursework. This is a quick introduction to numerical programming in [Python](https://www.python.org/) using a set of interactive  [Jupyter](https://jupyter.org/) notebooks. 
 1. [Python Basics](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/01PythonBasics.ipynb)
 1. [Conditionals and Lists](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/02ConditionalsAndLists.ipynb)
 1. [Numerical Python and Plotting](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/03NumpyAndPlotting.ipynb)
+
+## How to complete this introduction
 
 You can use these notebooks in two ways:
 - You can run the notebooks on [google colab](https://research.google.com/colaboratory/faq.html). This is extremely convenient, requiring nothing but a Google account! Just click the links above to get started.
@@ -23,8 +21,8 @@ The programming approach is **highly** preferred to using spreadsheets (like `Ex
 ![Python is growing like wildfire](SharedScreenshot.jpg)
 
 Python is not the only programming language for numerics, but it has a few important advantages:
-1. It is incredibly popular. The figure above was generated on [stackoverflow](https://insights.stackoverflow.com/trends) and show that Python's user base is an order of magnitude larger than any other programming language used for numerical work.
-1. This means there is a large and well organized community of users developing new aspect of Python and providing help and education.
-1. It also means learning Python is a good way to improve your job prospects. This is particularly true for engineering positions related to data-science and machine learning.
-1. It is open-source and free to use. This helps the community grow and also ensures future employers can use your skills - no need to pay for a Matlab license. 
-1. Python is easy to learn and the lessons are generally transferable to other languages. A basis in Python will help make other modern languages like [Julia](https://julialang.org/) and [R](https://www.r-project.org/about.html) more approachable. 
+- It is incredibly popular. The figure above was generated on [stackoverflow](https://insights.stackoverflow.com/trends) and show that Python's user base is an order of magnitude larger than any other programming language used for numerical work.
+- This means there is a large and well organized community of users developing new aspect of Python and providing help and education.
+- It also means learning Python is a good way to improve your job prospects. This is particularly true for engineering positions related to data-science and machine learning.
+- It is open-source and free to use. This helps the community grow and also ensures future employers can use your skills - no need to pay for a Matlab license. 
+- Python is easy to learn and the lessons are generally transferable to other languages. A basis in Python will help make other modern languages like [Julia](https://julialang.org/) and [R](https://www.r-project.org/about.html) more approachable. 
