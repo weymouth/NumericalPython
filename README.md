@@ -14,18 +14,18 @@ You can use these notebooks in two ways:
 ## Why use programming for analysis?
 
 The programming approach is **highly** preferred to using spreadsheets (like `Excel`) which are [extremely dangerous to use for important work](https://www.forbes.com/sites/timworstall/2013/02/13/microsofts-excel-might-be-the-most-dangerous-software-on-the-planet/?sh=536d1fa0633d). Well documented spreadsheet errors have led to catastrophes in [business](https://www.marketwatch.com/story/88-of-spreadsheets-have-errors-2013-04-17), [economic policy](https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history) and [health care](https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england). This is because:
-- Spreadsheets *hide their methodology* behind the data. This makes it extremely difficult to transfer methods to new data and to find errors. In contrast, a program *is* the methodology, making testing and reproduction much easier.
-- Spreadsheets are not extensible. Their available numerical methods make them inappropriate for any advanced engineering analysis.
+- Spreadsheets *hide their methodology* behind the data. This makes it difficult and error-prone to transfer methods to new data. In contrast, a program *is* the methodology, making testing and reproduction much easier.
+- Spreadsheets are not extensible. Their limited numerical methods make them inappropriate for any advanced engineering analysis.
 
 ## Why use Python?
 
 ![Python is growing like wildfire](SharedScreenshot.jpg)
 
-Python is not the only programming language for numerics, but it has a few important advantages:
+Python has a few important advantages as a numerical programming language:
 - Python is in high demand. This means learning Python is a good way to improve your job prospects; particularly for engineering positions related to data-science and machine learning.
-- Python has the largest community of users and developers. [The figure above](https://insights.stackoverflow.com/trends) indicates that Python is around five times larger than any other programming language used for numerical work. This means the methods in Python are world class and modern, and it is very easy to get help.
+- Python has the largest community of users and developers. [The figure above](https://insights.stackoverflow.com/trends) indicates that Python is around five times larger than any other programming language used for numerical work. This means Python is being continuously developed and tested, and it is very easy to get help.
 - It is open-source and free to use. This helps the community grow and also ensures future employers can use your skills - no need to pay for a Matlab license. 
-- Python is easy to learn and the lessons are generally transferable to other languages. A basis in Python will help make other modern languages like [Julia](https://julialang.org/) and [R](https://www.r-project.org/about.html) more approachable. 
+- Python is easy to learn and the lessons are generally transferable to other languages. A basis in Python will help make other growing numerical languages like [Julia](https://julialang.org/) and [R](https://www.r-project.org/about.html) more approachable. 
 
 ## What if I need more help?
 
