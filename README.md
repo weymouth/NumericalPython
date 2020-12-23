@@ -4,6 +4,7 @@
 1. [Python Basics](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/01PythonBasics.ipynb)
 1. [Conditionals and Lists](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/02ConditionalsAndLists.ipynb)
 1. [Numerical Python and Plotting](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/03NumpyAndPlotting.ipynb)
+1. [Example: Potential flow plot](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/04FlowPlotExample.ipynb)
 
 ## How to complete this introduction?
 
